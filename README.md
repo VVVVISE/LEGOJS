@@ -15,4 +15,5 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 VVVVISE / Susumu Fujii
 
 ## On Going Project
+### This project is currently being developed as a prototype for LEGOJS
 - https://github.com/sujii/portofolio
