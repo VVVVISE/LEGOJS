@@ -13,3 +13,6 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 
 1, Oct. 2024
 VVVVISE / Susumu Fujii
+
+## On Going Project
+- https://github.com/sujii/portofolio
