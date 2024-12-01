@@ -18,11 +18,11 @@ VVVVISE / Susumu Fujii
 
 ### This project is currently being developed as a prototype for LEGOJS
 
-- [https://github.com/VVVVISE/lego](VVVVISE/lego)
-- [https://github.com/sujii/lego-portofolio](sujii/lego-portofolio)
+- [VVVVISE/lego](https://github.com/VVVVISE/lego)
+- [sujii/lego-portofolio](https://github.com/sujii/lego-portofolio)
 
 ### LEGOJS has two types of ComponentsSuites
 #### We are planning to release a Free version and a Professional version
 
-- [https://github.com/VVVVISE/lego-components-free](lego-components-free)
-- [https://github.com/VVVVISE/lego-components-pro](lego-components-pro)
+- [LEGO-COMPONENTS-FREE](https://github.com/VVVVISE/lego-components-free)
+- [LEGO-COMPONENTS-PRO](https://github.com/VVVVISE/lego-components-pro)
