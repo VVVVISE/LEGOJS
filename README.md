@@ -21,8 +21,8 @@ VVVVISE / Susumu Fujii
 - [VVVVISE/lego](https://github.com/VVVVISE/lego)
 - [sujii/lego-portofolio](https://github.com/sujii/lego-portofolio)
 
-### LEGOJS has two types of ComponentsSuites
-#### We are planning to release a Free version and a Professional version
+## LEGOJS has two types of ComponentsSuites
+### We are planning to release a Free version and a Professional version
 
 - [LEGO-COMPONENTS-FREE](https://github.com/VVVVISE/lego-components-free)
 - [LEGO-COMPONENTS-PRO](https://github.com/VVVVISE/lego-components-pro)
