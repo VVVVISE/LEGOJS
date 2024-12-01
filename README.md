@@ -15,6 +15,14 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 VVVVISE / Susumu Fujii
 
 ## On Going Project
+
 ### This project is currently being developed as a prototype for LEGOJS
+
 - https://github.com/VVVVISE/lego
 - https://github.com/sujii/lego-portofolio
+
+### LEGOJS has two types of ComponentsSuites
+#### We are planning to release a Free version and a Professional version
+
+- https://github.com/VVVVISE/lego-components-free
+- https://github.com/VVVVISE/lego-components-pro
