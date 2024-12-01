@@ -17,3 +17,4 @@ VVVVISE / Susumu Fujii
 ## On Going Project
 ### This project is currently being developed as a prototype for LEGOJS
 - https://github.com/VVVVISE/lego
+- https://github.com/sujii/lego-portofolio
