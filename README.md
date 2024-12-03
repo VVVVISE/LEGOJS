@@ -38,5 +38,5 @@ We are planning to release a Free version and a Professional version.
 
 ## HeadlessCloud : _Coming Soon_
 
-## SchemeEditorGUI : _Coming Soon_
+## SchemeUI : _Coming Soon_
 
