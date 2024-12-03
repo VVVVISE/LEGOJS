@@ -18,12 +18,12 @@ VVVVISE / Susumu Fujii - Usualy known as suji(i)
 
 Due to concerns about trademark issues, LEGOJS plans to change its name in the near future.
 
-## LEGO: _Prototype devs for LEGOJS_
+## LEGO : _Prototype devs for LEGOJS_
 
 - [@vvvvise/lego](https://github.com/VVVVISE/lego)
   - _The alpha version is currently in the WIP stage_
 
-## OOUI: _LEGOJS has two types of ComponentsSuites_
+## OOUI : _LEGOJS has two types of ComponentsSuites_
 
 We are planning to release a Free version and a Professional version.
 
