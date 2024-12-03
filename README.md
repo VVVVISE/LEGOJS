@@ -2,6 +2,8 @@
 
 ## OUR MISSION:
 
+### To design a data model that maintains consistency over time, it is necessary to examine the past from the future by changing perspective.
+
 The original design pattern I am working on aims to create a new order while allowing for the autonomy of distributed, uncoordinated service islands. This is a technology-enabled approach to business, an attempt to restore the “promise” of the entire service without gaps, but already developed to an implementation that is not in the design phase and can be put into product development at any time. The overall design is based on a domain model that is shallowly structured into 2Ⅾ layers. By unifying the language to TypeScript and making the assignment of engineers fluid, the software development time is shortened and business benefits such as cost-effectiveness and minimized labor costs are maximized. Give development teams new mobility, maximize product cost promotion, create a backbone for long-term operations, and veil the workspace.
 This is why Prisma is the starting point.
 
