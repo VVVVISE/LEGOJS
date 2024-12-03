@@ -14,7 +14,7 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 1, Oct. 2024
 VVVVISE / Susumu Fujii - Usualy known as suji(i)
 
-## About Project Name
+## _About Project Name_
 
 Due to concerns about trademark issues, LEGOJS plans to change its name in the near future.
 
@@ -35,3 +35,8 @@ We are planning to release a Free version and a Professional version.
   - _The beta version is currently in the development stage_
   - _Not for Public_
     - _We have plans for a subscription service in the near future_
+
+## HeadlessCloud : _Coming Soon_
+
+## SchemeEditorGUI : _Coming Soon_
+
