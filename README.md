@@ -14,11 +14,16 @@ All communication is centralized in a hydration that refluxes between the edge f
 Remember the obvious: “It all starts over again with imagining what's in memory.” This is not an odd plan, it's a mediocre, yet nowhere near perfect plan to solve the problem by walking down the central path once again.
 
 1, Oct. 2024
-VVVVISE / Susumu Fujii - Usualy known as suji(i)
 
-## _About Project Name_
+**VVVVISE / Susumu Fujii**
 
-Due to concerns about trademark issues, LEGOJS plans to change its name in the near future.
+---
+
+## About Project Name
+
+_Due to concerns about trademark issues, LEGOJS plans to change its name in the near future._
+
+---
 
 ## 1. LEGO : _Prototype devs for LEGOJS_
 
