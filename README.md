@@ -15,7 +15,7 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 
 1, Oct. 2024
 
-**VVVVISE / Susumu Fujii**
+**[VVVVISE / Susumu Fujii](https://gist.github.com/sujii/336313d662f89756b54f6f3ab6bcf96a)**
 
 ---
 
