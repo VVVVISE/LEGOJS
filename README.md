@@ -35,4 +35,4 @@ VVVVISE / Susumu Fujii - Usualy known as suji(i)
   - _**Object-Oriented Fully UI Suites** - that fully abstract the components of browser applications_
   - _The beta version is currently in the development stage_
   - _Not for Public_
-  - _We have plans for a subscription service in the near future_
+    - _We have plans for a subscription service in the near future_
