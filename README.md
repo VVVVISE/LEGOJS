@@ -14,9 +14,9 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 1, Oct. 2024
 VVVVISE / Susumu Fujii - Usualy known as suji(i)
 
-## About changes to product names
+## About changes to Project Name
 
-### Due to concerns about trademark issues, LEGOJS plans to change its name in the near future.
+### Due to concerns about trademark issues, LEGOJS plans to change its name in the near future
 
 ## On Going Project
 
