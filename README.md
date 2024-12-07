@@ -34,7 +34,7 @@ _Due to concerns about trademark issues, LEGOJS plans to change its name in the 
 
 We are planning to release a Free version and a Professional version.
 
-- [@vvvvise/lego-ui](https://github.com/VVVVISE/lego/packages/ui)
+- [@vvvvise/lego-ui](https://github.com/VVVVISE/lego/tree/main/packages/ui)
   - _Basic components mock_
   - _WIP_
 - **[@vvvvise/ooui](https://github.com/VVVVISE/OOUI)** _(lego-components-pro)_
