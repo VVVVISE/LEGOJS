@@ -19,9 +19,13 @@ Remember the obvious: “It all starts over again with imagining what's in memor
 
 ---
 
-## About Project Name
+## [♻️ The repository has been migrated to the new project name “INVARCH” 👉](https://github.com/VVVVISE/invarch)
 
-_Due to concerns about trademark issues, LEGOJS plans to change its name in the near future._
+### _Due to trademark considerations, the "LEGOJS" project is now renamed to "INVARCH"._
+_The repository has been relocated to:_<br />
+**_[♻️ https://github.com/VVVVISE/invarch 👉](https://github.com/VVVVISE/invarch)_**
+
+This repository will remain archived for reference. We appreciate your understanding and continued support as we move forward under our new name.
 
 ---
 
